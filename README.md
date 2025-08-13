@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahesh Kumara Silwathge</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maheshkumara1&label=Profile%20Views&color=0e75b6&style=flat" alt="maheshkumara1" />
-</p>
+<h1 align="center">Hi 👋, I'm Mahesh Silwathge</h1>
 
 ---
 
@@ -34,7 +31,7 @@
 
 <h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshK0901&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-KSM&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---
