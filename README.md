@@ -1,6 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mahesh Silwathge</h1>
-
+| <a href="https://github.com/Mahesh-KSM"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2800&pause=900&color=2F81F7&width=900&height=100&lines=👋+Hi%2C+I'm+Mahesh+Silwathge;🏛️+From+Galle%2C+Sri+Lanka.;🎓+(UG)+University+of+Colombo+School+of+Computing;" alt="Typing SVG" /></a> | <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/> |
+|---|---|
 ---
+
+## 💻 Full-stack Software Developer | Computer Science Undergraduate at UCSC  
+
+I specialize in building scalable, real-world applications using React, Spring Boot, and Node.js. I am skilled in backend–frontend integration, role-based authentication, and responsive UI design, and I enjoy turning ideas into impactful software solutions.
+
+🚀 Notable Projects:
+
+- PureLeaf – Tea Factory Management System: Full-stack app with React + Spring Boot + PostgreSQL, featuring supply chain tracking, role-based access, and real-time updates.
+
+- HealthSlot - Doctor Appointment Booking System: MERN stack app for enabling patients to schedule appointments and administrators to manage the platform.
+
+🎯 Aspiring Software Engineer | Open to **full-stack and backend development opportunities**  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mahesh-silwathge) | [Email](mailto:maheshkumara0901@gmail.com)
+
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
