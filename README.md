@@ -2,28 +2,23 @@
 |---|---|
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<img src="https://github.com/Mahesh-KSM/Mahesh-KSM/blob/main/ChatGPT%20Image%20Aug%2027%2C%202025%2C%2009_57_13%20AM.png" alt="Ai image" width="200" align="left" />
 
-<div style="flex: 1;">
-
-## 💻 Full-stack Software Developer | Computer Science Undergraduate at UCSC  
+ 💻 Full-stack Software Developer | Computer Science Undergraduate at UCSC  
 
 I'm passionate about building scalable, real-world applications that solve meaningful problems.  
 I specialize in modern web technologies and enjoy the complete journey from concept to deployment.  
 
-🎯 Aspiring Software Engineer | Open to **full-stack and backend development opportunities**  
+🎯 Aspiring Software Engineer open to full-stack and backend development opportunities. 
 
 📫 Connect with me on  
-[LinkedIn](https://www.linkedin.com/in/mahesh-silwathge) | [Email](mailto:maheshkumara0901@gmail.com)  
 
-</div>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/mahesh-silwathge)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:maheshkumara0901@gmail.com)
 
-<div style="flex-shrink: 0; margin-left: 20px;">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/photo.jpg" alt="Mahesh Silwathge" width="200" style="border-radius:50%;" />
 
-</div>
-</div>
+
 
 
 <h3 align="center">💻 Languages and Tools</h3>
@@ -32,8 +27,8 @@ I specialize in modern web technologies and enjoy the complete journey from conc
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" > <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a> 
@@ -44,7 +39,9 @@ I specialize in modern web technologies and enjoy the complete journey from conc
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
+
 ---
+
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-KSM&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
